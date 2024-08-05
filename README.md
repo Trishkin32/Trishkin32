@@ -6,4 +6,4 @@
 - 📫 **How to reach me:**
 
  - **Telegram:** [@Lichen_97](https://t.me/Lichen_97)
- - **Mail** trishkin.vlad197@yandex.ru
+ - **email** trishkin.vlad197@yandex.ru
