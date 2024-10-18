@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning FastAPI, Flask
 - 👯 I’m looking to collaborate on web-site project
-- 💬 Technology stack: Python, Django, DRF, SQL, Docker and others..
+- 💬 Technology stack: Python, Django, DRF, Flask, SQL, Docker and others..
 - 📫 **How to reach me:**
 
  - **Telegram:** [@Lichen_97](https://t.me/Lichen_97)
