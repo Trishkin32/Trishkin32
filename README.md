@@ -1,5 +1,5 @@
 ### 👨‍💻 About me  
-- - Developing **ETL pipelines** using **Mage AI**  
+- Developing **ETL pipelines** using **Mage AI**  
 - I work with: Python, Flask, Go, Django, Docker  
 - I participate in web projects (backend, API, automation)  
 
