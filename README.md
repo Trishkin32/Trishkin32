@@ -1,9 +1,17 @@
-## Hi there 👋
+### 👨‍💻 Обо мне  
+- Разрабатываю **ETL-пайплайны** с использованием **Mage AI**  
+- Работаю с: Python, FastAPI, Flask, Go, Django, Docker  
+- Участвую в веб-проектах (бекенд, API, автоматизация)  
 
-- 🌱 I’m currently learning FastAPI, Flask, Go
-- 👯 I’m looking to collaborate on web-site project
-- 💬 Technology stack: Python, Django, DRF, Flask, SQL, Docker and others..
-- 📫 **How to reach me:**
+### 🛠️ Технологии и инструменты  
+**ETL / Data Engineering:**  
+- Mage AI (разработка и оркестрация пайплайнов)
+- Apache Nifi 
+- Pandas, SQLAlchemy  
 
- - **Telegram:** [@Lichen_97](https://t.me/Lichen_97)
- - **email** trishkin.vlad197@yandex.ru
+**Backend / Web:**  
+- Python (Flask, Django)  
+- Go (изучаю)  
+- Docker, PostgreSQL   
+
+📫 **Связь:** [Telegram](https://t.me/Lichen_97) | trishkin.vlad197@yandex.ru 
