@@ -1,18 +1,18 @@
 ### 👨‍💻 About me  
-- Developing **ETL pipelines** using **Mage AI**  
-- I work with: Python, Flask, Go, Django, Docker  
-- I participate in web projects (backend, API, automation)  
+**Backend developer** (Python) + **Data engineer**  
+- I am writing API in Flask, Django**.  
+- - I am developing **ETL pipelines** using **Mageia**.  
+- I participate in web projects (backend, API, databases).  
 
-### 🛠️ Technologies and tools  
+### 🛠️ Technologies  
+**Backend:**  
+- Python (Flask, Django DRF)  
+- Go (Studying)  
+- PostgreSQL
+- Docker, CI/CD (GitHub Actions)  
+
 **ETL / Data Engineering:**  
-- Mage AI (pipeline development and orchestration)
-- Apache Nifi 
-- Pandas, SQLAlchemy  
-
-**Backend / Web:**  
-- Python (Flask, Django)  
-- Go (studying)
--  Apache Nifi
-- Docker, PostgreSQL   
+- **-**MageAI** (pipeline development)  
+- - Apache Nide, Pandas, SQLAlchemy  
 
 📫 **Connection:** [Telegram](https://t.me/Lichen_97) | trishkin.vlad197@yandex.ru
