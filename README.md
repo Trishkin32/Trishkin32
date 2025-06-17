@@ -1,6 +1,6 @@
 ### 👨‍💻 About me  
 **Backend developer** (Python) + **Data engineer**  
-- I am writing API in Flask, Django**.  
+- I am writing API in **Flask, Django**.  
 - I am developing **ETL pipelines** using **MageAI**.  
 - I participate in web projects (backend, API, databases).  
 
