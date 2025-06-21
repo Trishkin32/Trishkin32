@@ -13,6 +13,6 @@
 
 **ETL / Data Engineering:**  
 - **MageAI** (pipeline development)  
-- Apache Nifi, Pandas, SQLAlchemy  
+- Pandas, SQLAlchemy  
 
 📫 **Connection:** [Telegram](https://t.me/Lichen_97) | trishkin.vlad197@yandex.ru
